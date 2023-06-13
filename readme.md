@@ -6,7 +6,7 @@ ____
 ### Установка приложения
 Клонируем проект с репозитория 
 ```
-git clone https://github.com/molodcovnik/
+git clone https://github.com/molodcovnik/moscow_zoo_aiogram.git
 ```
 Устанавливаем виртуальное окружение и зависимости
 ```
